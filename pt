@@ -1,248 +1,244 @@
 # EXTM3U url-tvg = “https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
-#EXTINF:-1,PT: Afro Music
-#EXTGRP:Stream 1
+#EXTINF:-1,Afro Music
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131068
-#EXTINF:-1,PT: AMC
-#EXTGRP:Stream 1
+#EXTINF:-1,AMC
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131049
-#EXTINF:-1,PT: AXN
-#EXTGRP:Stream 1
+#EXTINF:-1,AXN
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131050
-#EXTINF:-1,PT: AXN Movies
-#EXTGRP:Stream 1
+#EXTINF:-1,AXN Movies
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131045
-#EXTINF:-1,PT: AXN White
+#EXTINF:-1,AXN White
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131044
-#EXTINF:-1,PT: Canal 180
+#EXTINF:-1,Canal 180
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131089
-#EXTINF:-1,PT: Cancao Nova
+#EXTINF:-1,Cancao Nova
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131090
-#EXTINF:-1,PT: Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131063
-#EXTINF:-1,PT: Casa E Cozinha
+#EXTINF:-1,Casa E Cozinha
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130945
-#EXTINF:-1,PT: Cinemundo
+#EXTINF:-1,Cinemundo
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131042
-#EXTINF:-1,PT: Crime Investigation 
+#EXTINF:-1,Crime Investigation 
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131094
-#EXTINF:-1,PT: Discovery Channel
+#EXTINF:-1,Discovery Channel
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131080
-#EXTINF:-1,PT: Disney Channel
+#EXTINF:-1,Disney Channel
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131054
-#EXTINF:-1,PT: Disney Junior
+#EXTINF:-1,Disney Junior
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131055
-#EXTINF:-1,PT: Euronews
+#EXTINF:-1,Euronews
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130928
-#EXTINF:-1,PT: Eurosport 1
+#EXTINF:-1,Eurosport 1
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130966
-#EXTINF:-1,PT: Eurosport 2
+#EXTINF:-1,Eurosport 2
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130967
-#EXTINF:-1,PT: Fox Comedy
+#EXTINF:-1,Fox Comedy
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131047
-#EXTINF:-1,PT: Fox Crime
+#EXTINF:-1,Fox Crime
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131046
-#EXTINF:-1,PT: Fox Life
+#EXTINF:-1,Fox Life
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131052
-#EXTINF:-1,PT: Fox Movies
+#EXTINF:-1,Fox Movies
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131041
-#EXTINF:-1,PT: Fuel TV
+#EXTINF:-1,Fuel TV
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130976
-#EXTINF:-1,PT:  Discovery Investigation
+#EXTINF:-1, Discovery Investigation
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131077
-#EXTINF:-1,PT: 24 Kitchen
+#EXTINF:-1,24 Kitchen
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130946
-#EXTINF:-1,PT: Combat
+#EXTINF:-1,Combat
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130974
-#EXTINF:-1,PT: Mezzo
+#EXTINF:-1,Mezzo
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131075
-#EXTINF:-1,PT: Motorvision
+#EXTINF:-1,Motorvision
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130975
-#EXTINF:-1,PT: National Geographic
+#EXTINF:-1,National Geographic
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131078
-#EXTINF:-1,PT: Nat Geo Wild
+#EXTINF:-1,Nat Geo Wild
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131079
-#EXTINF:-1,PT: Nickelodeon
+#EXTINF:-1,Nickelodeon
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131060
-#EXTINF:-1,PT: RTP 1
+#EXTINF:-1,RTP 1
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130916
-#EXTINF:-1,PT: RTP 2
+#EXTINF:-1,RTP 2
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130917
-#EXTINF:-1,PT: RTP 3
+#EXTINF:-1,RTP 3
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130918
-#EXTINF:-1,PT: RTP Açores
+#EXTINF:-1,RTP Açores
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131100
-#EXTINF:-1,PT: RTP Memoria
+#EXTINF:-1,RTP Memoria
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131101
-#EXTINF:-1,PT: SIC
+#EXTINF:-1,SIC
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130919
-#EXTINF:-1,PT: SIC Caras
+#EXTINF:-1,SIC Caras
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130936
-#EXTINF:-1,PT: SIC Mulher
+#EXTINF:-1,SIC Mulher
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130935
-#EXTINF:-1,PT: SIC Noticias
+#EXTINF:-1,SIC Noticias
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130922
-#EXTINF:-1,PT: SIC Radical
+#EXTINF:-1,SIC Radical
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130934
-#EXTINF:-1,PT: Sport TV NBA
+#EXTINF:-1,Sport TV NBA
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130957
-#EXTINF:-1,PT: SyFy
+#EXTINF:-1,SyFy
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131053
-#EXTINF:-1,PT: TPA International
+#EXTINF:-1,TPA International
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131114
-#EXTINF:-1,PT: TVCine Action
+#EXTINF:-1,TVCine Action
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131040
-#EXTINF:-1,PT: TVCine Edition
+#EXTINF:-1,TVCine Edition
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131038
-#EXTINF:-1,PT: TVCine Emotion
+#EXTINF:-1,TVCine Emotion
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131039
-#EXTINF:-1,PT: TVCine Top
+#EXTINF:-1,TVCine Top
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131037
-#EXTINF:-1,PT: TVI HD
+#EXTINF:-1,TVI HD
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130920
-#EXTINF:-1,PT: TVI 24
+#EXTINF:-1,TVI 24
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130923
 #EXTINF:-1 group-title="22222222222222"
-#EXTINF:-1,PT: National Geographic Wild
+#EXTINF:-1,National Geographic Wild
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66276
-#EXTINF:-1,PT: 24 Kitchen HD
+#EXTINF:-1,24 Kitchen HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66277
-#EXTINF:-1,PT: A Bola TV
+#EXTINF:-1,A Bola TV
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66278
-#EXTINF:-1,PT: ARTV
+#EXTINF:-1,ARTV
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66279
-#EXTINF:-1,PT: AXN HD
+#EXTINF:-1,AXN HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66280
-#EXTINF:-1,PT: AXN Movies HD
+#EXTINF:-1,AXN Movies HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66281
-#EXTINF:-1,PT: AXN White HD
+#EXTINF:-1,AXN White HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66282
-#EXTINF:-1,PT: BTV 1 HD
+#EXTINF:-1,BTV 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66287
-#EXTINF:-1,PT: BTV HD
+#EXTINF:-1,BTV HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66288
-#EXTINF:-1,PT: Baby TV
+#EXTINF:-1,Baby TV
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66289
-#EXTINF:-1,PT: Bloomberg
+#EXTINF:-1,Bloomberg
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66290
-#EXTINF:-1,PT: CBS Reality
+#EXTINF:-1,CBS Reality
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66291
-#EXTINF:-1,PT: CMTV
+#EXTINF:-1,CMTV
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66292
-#EXTINF:-1,PT: CNBC
+#EXTINF:-1,CNBC
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66293
-#EXTINF:-1,PT: CNBC Europe
+#EXTINF:-1,CNBC Europe
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66294
-#EXTINF:-1,PT: Canal NOS
+#EXTINF:-1,Canal NOS
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66296
-#EXTINF:-1,PT: Canal Panda
+#EXTINF:-1,Canal Panda
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66297
-#EXTINF:-1,PT: Canal Q
+#EXTINF:-1,Canal Q
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66298
-#EXTINF:-1,PT: CanĿªo Nova
+#EXTINF:-1,CanĿªo Nova
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66299
-#EXTINF:-1,PT: Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66300
-#EXTINF:-1,PT: Casa e Cozinha HD
+#EXTINF:-1,Casa e Cozinha HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66301
-#EXTINF:-1,PT: Crime+Investigation
+#EXTINF:-1,Crime+Investigation
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66303
-#EXTINF:-1,PT: E! Entertainment
+#EXTINF:-1,E! Entertainment
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66304
-#EXTINF:-1,PT: Eleven Sports 1 HD
+#EXTINF:-1,Eleven Sports 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66311
-#EXTINF:-1,PT: Eleven Sports 2 HD
+#EXTINF:-1,Eleven Sports 2 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66312
-#EXTINF:-1,PT: Eleven Sports 3
+#EXTINF:-1,Eleven Sports 3
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66313
-#EXTINF:-1,PT: Eleven Sports 4
+#EXTINF:-1,Eleven Sports 4
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66314
-#EXTINF:-1,PT: Eleven Sports 5
+#EXTINF:-1,Eleven Sports 5
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66315
-#EXTINF:-1,PT: Eleven Sports 6
+#EXTINF:-1,Eleven Sports 6
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66316
-#EXTINF:-1,PT: Eurosport 1 HD
+#EXTINF:-1,Eurosport 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66318
-#EXTINF:-1,PT: Eurosport 2
+#EXTINF:-1,Eurosport 2
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66319
-#EXTINF:-1,PT: FOX Crime HD
+#EXTINF:-1,FOX Crime HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66320
-#EXTINF:-1,PT: FOX HD
+#EXTINF:-1,FOX HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66321
-#EXTINF:-1,PT: FOX Life HD
+#EXTINF:-1,FOX Life HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66322
-#EXTINF:-1,PT: Fox Comedy
+#EXTINF:-1,Fox Comedy
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66324
-#EXTINF:-1,PT: Globo
+#EXTINF:-1,Globo
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66326
-#EXTINF:-1,PT: Histðria
+#EXTINF:-1,Histðria
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66327
-#EXTINF:-1,PT: Hollywood HD
+#EXTINF:-1,Hollywood HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66329
-#EXTINF:-1,PT: ID Investigation Discovery
+#EXTINF:-1,ID Investigation Discovery
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66330
-#EXTINF:-1,PT: Jim Jam
+#EXTINF:-1,Jim Jam
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66331
-#EXTINF:-1,PT: MCM Pop
+#EXTINF:-1,MCM Pop
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66332
-#EXTINF:-1,PT: MTV Portugal
+#EXTINF:-1,MTV Portugal
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66335
-#EXTINF:-1,PT: National Geographic HD
+#EXTINF:-1,National Geographic HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66337
-#EXTINF:-1,PT: Odisseia
+#EXTINF:-1,Odisseia
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66338
-#EXTINF:-1,PT: PFC
+#EXTINF:-1,PFC
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66339
-#EXTINF:-1,PT: Playboy TV
+#EXTINF:-1,Playboy TV
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66340
-#EXTINF:-1,PT: Porto Canal
+#EXTINF:-1,Porto Canal
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66341
-#EXTINF:-1,PT: RTP Africa
+#EXTINF:-1,RTP Africa
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66342
-#EXTINF:-1,PT: RTP 1 HD
+#EXTINF:-1,RTP 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66343
-#EXTINF:-1,PT: RTP 2 HD
+#EXTINF:-1,RTP 2 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66344
-#EXTINF:-1,PT: RTP Acores
+#EXTINF:-1,RTP Acores
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66346
-#EXTINF:-1,PT: RTP Madeira
+#EXTINF:-1,RTP Madeira
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66347
-#EXTINF:-1,PT: RTP Memðria
+#EXTINF:-1,RTP Memðria
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66348
-#EXTINF:-1,PT: SIC Caras
+#EXTINF:-1,SIC Caras
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66353
-#EXTINF:-1,PT: SIC HD
+#EXTINF:-1,SIC HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66354
-#EXTINF:-1,PT: SIC K
+#EXTINF:-1,SIC K
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66356
-#EXTINF:-1,PT: SIC Noticias
+#EXTINF:-1,SIC Noticias
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66357
-#EXTINF:-1,PT: SIC Radical
+#EXTINF:-1,SIC Radical
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66358
-#EXTINF:-1,PT: SPORT TV 4
+#EXTINF:-1,SPORT TV 4
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66363
-#EXTINF:-1,PT: Sport TV 1 HD
+#EXTINF:-1,Sport TV 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66365
-#EXTINF:-1,PT: Sport TV 2 HD
+#EXTINF:-1,Sport TV 2 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66367
-#EXTINF:-1,PT: Sport TV 3 HD
+#EXTINF:-1,Sport TV 3 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66369
-#EXTINF:-1,PT: Sport TV NBA
+#EXTINF:-1,Sport TV NBA
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66370
-#EXTINF:-1,PT: TV Record
+#EXTINF:-1,TV Record
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66374
-#EXTINF:-1,PT: TVCine EDITION HD
+#EXTINF:-1,TVCine EDITION HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66375
-#EXTINF:-1,PT: TVCine EMOTION HD
+#EXTINF:-1,TVCine EMOTION HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66376
-#EXTINF:-1,PT: TVI 24
+#EXTINF:-1,TVI 24
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66378
-#EXTINF:-1,PT: TVI Ficcao
+#EXTINF:-1,TVI Ficcao
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66379
-#EXTINF:-1,PT: TVI HD
+#EXTINF:-1,TVI HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66380
-#EXTINF:-1,PT: TVI24
+#EXTINF:-1,TVI24
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66381
-#EXTINF:-1,PT: Trace Urban
+#EXTINF:-1,Trace Urban
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66382
-#EXTINF:-1,PT: Travel Channel HD
+#EXTINF:-1,Travel Channel HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66383
