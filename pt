@@ -1,3 +1,4 @@
+# EXTM3U url-tvg = “https://iptv-org.github.io/epg/guides/pt/meo.pt.xml"
 #EXTINF:-1,PT: Afro Music
 #EXTGRP:Stream 1
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131068
