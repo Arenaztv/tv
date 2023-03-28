@@ -1,11 +1,14 @@
-#EXTINF:-1 group-title="11111111111111"
 #EXTINF:-1,PT: Afro Music
+#EXTGRP:Stream 1
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131068
 #EXTINF:-1,PT: AMC
+#EXTGRP:Stream 1
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131049
 #EXTINF:-1,PT: AXN
+#EXTGRP:Stream 1
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131050
-#EXTINF:-1,PT: AXN Movies 
+#EXTINF:-1,PT: AXN Movies
+#EXTGRP:Stream 1
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131045
 #EXTINF:-1,PT: AXN White
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131044
