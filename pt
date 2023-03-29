@@ -25,47 +25,47 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10163?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eurosport 2
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66319?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX
+#EXTINF:0 FOX
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146831?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX CRIME
+#EXTINF:0 FOX CRIME
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146834?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX Comedy
+#EXTINF:0 FOX Comedy
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.comedy.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX Crime HD
+#EXTINF:0 FOX Crime HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66320?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",FOX Crime HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10164?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX Crime PT
+#EXTINF:0 FOX Crime PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.crime.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX HD
+#EXTINF:0 FOX HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66321?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",FOX HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10165?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX Life HD
+#EXTINF:0 FOX Life HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66322?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",FOX Life HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10166?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX Life PT
+#EXTINF:0 FOX Life PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX Movies
+#EXTINF:0 FOX Movies
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.movies.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX PT
+#EXTINF:0 FOX PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Ficcao
+#EXTINF:0 Ficcao
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ficcao.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Fox Comedy
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10168?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Fox Comedy
+#EXTINF:0 Fox Comedy
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66324?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Globo
+#EXTINF:0 Globo
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66326?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD AFRO MUSIC
+#EXTINF:0 HD AFRO MUSIC
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146882?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD CBS REALITY
+#EXTINF:0 HD CBS REALITY
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146903?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD DISCOVERY CHANNEL
+#EXTINF:0 HD DISCOVERY CHANNEL
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146889?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD E! ENTERTAINMENT
+#EXTINF:0 HD E! ENTERTAINMENT
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146887?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",HD ELEVEN SPORTS 1
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146781?checkedby:iptvcat.com
@@ -73,25 +73,25 @@ http://xtra.fireottplus.com:2052/017458648389/407609858756/146781?checkedby:iptv
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146785?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",HD ELEVEN SPORTS 4
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146787?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD FOX
+#EXTINF:0 HD FOX
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146830?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD FOX COMEDY
+#EXTINF:0 HD FOX COMEDY
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146832?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD FOX CRIME
+#EXTINF:0 HD FOX CRIME
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146833?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD FOX LIFE
+#EXTINF:0 HD FOX LIFE
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146835?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD FOX MOVIES
+#EXTINF:0 HD FOX MOVIES
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146837?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD RTP 2
+#EXTINF:0 HD RTP 2
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146741?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD RTP AFRICA
+#EXTINF:0 HD RTP AFRICA
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146755?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD RTP INTERNATIONAL
+#EXTINF:0 HD RTP INTERNATIONAL
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146748?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD SIC
+#EXTINF:0 HD SIC
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146947?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD SIC NOTICIAS
+#EXTINF:0 HD SIC NOTICIAS
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146751?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",HD SPORT TV 1
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146770?checkedby:iptvcat.com
@@ -105,71 +105,71 @@ http://xtra.fireottplus.com:2052/017458648389/407609858756/146777?checkedby:iptv
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146776?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",HD SPORT TV 4
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146779?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD TRACE TOCA
+#EXTINF:0 HD TRACE TOCA
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146883?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD TV RECORD
+#EXTINF:0 HD TV RECORD
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146821?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD TV RECORD NEWS
+#EXTINF:0 HD TV RECORD NEWS
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146950?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD TVCINE EMOTION
+#EXTINF:0 HD TVCINE EMOTION
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146844?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HD TVI
+#EXTINF:0 HD TVI
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146948?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Histðria
+#EXTINF:0 Histðria
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66327?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Histðria
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10176?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",ID Investigation Discovery
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10178?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,ID Investigation Discovery
+#EXTINF:0 ID Investigation Discovery
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66330?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Jim Jam
+#EXTINF:0 Jim Jam
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66331?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Lolly Kids
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10180?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,MCM Pop
+#EXTINF:0 MCM Pop
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66332?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,MTV Portugal
+#EXTINF:0 MTV Portugal
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66335?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",National Geographic HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10186?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,National Geographic HD
+#EXTINF:0 National Geographic HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66337?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,National Geographic PT
+#EXTINF:0 National Geographic PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.geographic.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",National Geographic WILD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10187?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,National Geographic Wild
+#EXTINF:0 National Geographic Wild
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66276?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Nick JR
+#EXTINF:0 Nick JR
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Nick Jr.
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10188?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Nickelodeon
+#EXTINF:0 Nickelodeon
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Nickelodeon
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10189?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Odisseia
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10190?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Odisseia
+#EXTINF:0 Odisseia
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66338?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,PFC
+#EXTINF:0 PFC
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66339?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,A BOLA TV
+#EXTINF:0 A BOLA TV
 http://176.57.50.167:25461/536416/231244/7587?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,AMC HD
+#EXTINF:0 AMC HD
 http://176.57.50.167:25461/536416/231244/7590?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,AXN WHITE HD
+#EXTINF:0 AXN WHITE HD
 http://176.57.50.167:25461/536416/231244/7597?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,BENFICA TV 1 HD
+#EXTINF:0 BENFICA TV 1 HD
 http://176.57.50.167:25461/536416/231244/7600?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,CINEMUNDO HD
+#EXTINF:0 CINEMUNDO HD
 http://176.57.50.167:25461/536416/231244/7616?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,CMTV HD
+#EXTINF:0 CMTV HD
 http://176.57.50.167:25461/536416/231244/7618?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,DISCOVERY CHANNEL HD
+#EXTINF:0 DISCOVERY CHANNEL HD
 http://176.57.50.167:25461/536416/231244/7622?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,DISNEY CHANNEL
+#EXTINF:0 DISNEY CHANNEL
 http://176.57.50.167:25461/536416/231244/7623?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 1
 http://176.57.50.167:25461/536416/231244/7626?checkedby:iptvcat.com
@@ -187,19 +187,19 @@ http://176.57.50.167:25461/536416/231244/7631?checkedby:iptvcat.com
 http://176.57.50.167:25461/536416/231244/7633?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",ELEVEN SPORTS 6
 http://176.57.50.167:25461/536416/231244/7636?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FOX LIFE HD
+#EXTINF:0 FOX LIFE HD
 http://176.57.50.167:25461/536416/231244/7652?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,FUEL TV HD
+#EXTINF:0 FUEL TV HD
 http://176.57.50.167:25461/536416/231244/7655?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HISTORIA
+#EXTINF:0 HISTORIA
 http://176.57.50.167:25461/536416/231244/7658?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,HOLLYWOOD
+#EXTINF:0 HOLLYWOOD
 http://176.57.50.167:25461/536416/231244/7659?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,NATIONAL GEOGRAPHIC HD
+#EXTINF:0 NATIONAL GEOGRAPHIC HD
 http://176.57.50.167:25461/536416/231244/7674?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC HD
+#EXTINF:0 SIC HD
 http://176.57.50.167:25461/536416/231244/7696?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC NOTICIAS
+#EXTINF:0 SIC NOTICIAS
 http://176.57.50.167:25461/536416/231244/7699?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 1
 http://176.57.50.167:25461/536416/231244/7704?checkedby:iptvcat.com
@@ -219,57 +219,57 @@ http://176.57.50.167:25461/536416/231244/7710?checkedby:iptvcat.com
 http://176.57.50.167:25461/536416/231244/7711?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 5
 http://176.57.50.167:25461/536416/231244/7713?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SYFY HD
+#EXTINF:0 SYFY HD
 http://176.57.50.167:25461/536416/231244/7717?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TRAVEL CHANNEL HD
+#EXTINF:0 TRAVEL CHANNEL HD
 http://176.57.50.167:25461/536416/231244/7723?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TV GLOBO HD  'PT
+#EXTINF:0 TV GLOBO HD  'PT
 http://176.57.50.167:25461/536416/231244/7725?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TV RECORD HD
+#EXTINF:0 TV RECORD HD
 http://176.57.50.167:25461/536416/231244/7726?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVCINE 2
+#EXTINF:0 TVCINE 2
 http://176.57.50.167:25461/536416/231244/7731?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVI
+#EXTINF:0 TVI
 http://176.57.50.167:25461/536416/231244/7737?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVI HD
+#EXTINF:0 TVI HD
 http://176.57.50.167:25461/536416/231244/7745?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Porto Canal
+#EXTINF:0 Porto Canal
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/porto.canal.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Porto Canal
+#EXTINF:0 Porto Canal
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66341?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP 1
+#EXTINF:0 RTP 1
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146740?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",RTP 1 HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10195?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP 1 HD
+#EXTINF:0 RTP 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66343?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP 1 PT
+#EXTINF:0 RTP 1 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.1.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP 2 HD
+#EXTINF:0 RTP 2 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66344?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",RTP 2 HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10196?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP 2 PT
+#EXTINF:0 RTP 2 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.2.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",RTP 3
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10197?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP 3 PT
+#EXTINF:0 RTP 3 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.3.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",RTP A?ores
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10198?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP Acores
+#EXTINF:0 RTP Acores
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.acores.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP Acores
+#EXTINF:0 RTP Acores
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66346?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP Africa
+#EXTINF:0 RTP Africa
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66342?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP International
+#EXTINF:0 RTP International
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.inter.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP Madeira
+#EXTINF:0 RTP Madeira
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66347?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",RTP Madeira
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10199?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,RTP Memðria
+#EXTINF:0 RTP Memðria
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66348?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",RTP Memðria
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10200?checkedby:iptvcat.com
@@ -279,29 +279,29 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10173?checkedby:iptv
 http://162.212.178.69:41042/bysid/608?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",RTP2
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10174?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC
+#EXTINF:0 SIC
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146746?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Undefined",SIC (1080p)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC Caras
+#EXTINF:0 SIC Caras
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.caras.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC Caras
+#EXTINF:0 SIC Caras
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66353?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",SIC Caras
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10201?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC HD
+#EXTINF:0 SIC HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66354?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",SIC HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10202?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC K
+#EXTINF:0 SIC K
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66356?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC K
+#EXTINF:0 SIC K
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.k.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC PT
+#EXTINF:0 SIC PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC RADICAL
+#EXTINF:0 SIC RADICAL
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146925?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SIC Radical
+#EXTINF:0 SIC Radical
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66358?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV +
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146769?checkedby:iptvcat.com
@@ -311,7 +311,7 @@ http://xtra.fireottplus.com:2052/017458648389/407609858756/146773?checkedby:iptv
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146772?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",SPORT TV 4
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66363?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,SYFY
+#EXTINF:0 SYFY
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious;Undefined",Sobrenatural TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?checkedby:iptvcat.com
@@ -339,15 +339,15 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.t
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66370?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV Plus PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TLC
+#EXTINF:0 TLC
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",TV Record
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10213?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TV Record
+#EXTINF:0 TV Record
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66374?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVCine 1 PT
+#EXTINF:0 TVCine 1 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.1.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVCine 2 PT
+#EXTINF:0 TVCine 2 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.2.pt.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",TVCine EDITION HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10215?checkedby:iptvcat.com
@@ -355,25 +355,25 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10215?checkedby:iptv
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10216?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",TVI
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10172?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVI 24
+#EXTINF:0 TVI 24
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66378?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVI 24 PT
+#EXTINF:0 TVI 24 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvi.24.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVI Ficcao
+#EXTINF:0 TVI Ficcao
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66379?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",TVI HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10219?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVI HD
+#EXTINF:0 TVI HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66380?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVI PT
+#EXTINF:0 TVI PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvi.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,TVI24
+#EXTINF:0 TVI24
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66381?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Trace Toca
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10221?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Trace Urban
+#EXTINF:0 Trace Urban
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66382?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" ,Travel Channel HD
+#EXTINF:0 Travel Channel HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66383?checkedby:iptvcat.com
 #EXTINF:-1,Afro Music
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131068
