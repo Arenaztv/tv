@@ -1,261 +1,695 @@
 #EXTM3U
-EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",A Bola TV
+#EXTINF:-1, group-title="Opções 1", Afro Music
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131068
+#EXTINF:-1, group-title="Opções 1", AMC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131049
+#EXTINF:-1, group-title="Opções 1", AXN
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131050
+#EXTINF:-1, group-title="Opções 1", AXN Movies 
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131045
+#EXTINF:-1, group-title="Opções 1", AXN White
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131044
+#EXTINF:-1, group-title="Opções 1", Canal 180
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131089
+#EXTINF:-1, group-title="Opções 1", Cancao Nova
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131090
+#EXTINF:-1, group-title="Opções 1", Cartoon Network
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131063
+#EXTINF:-1, group-title="Opções 1", Casa E Cozinha
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130945
+#EXTINF:-1, group-title="Opções 1", Cinemundo
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131042
+#EXTINF:-1, group-title="Opções 1", Crime Investigation 
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131094
+#EXTINF:-1, group-title="Opções 1", Discovery Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131080
+#EXTINF:-1, group-title="Opções 1", Disney Channel
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131054
+#EXTINF:-1, group-title="Opções 1", Disney Junior
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131055
+#EXTINF:-1, group-title="Opções 1", Euronews
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130928
+#EXTINF:-1, group-title="Opções 1", Eurosport 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130966
+#EXTINF:-1, group-title="Opções 1", Eurosport 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130967
+#EXTINF:-1, group-title="Opções 1", Fox Comedy
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131047
+#EXTINF:-1, group-title="Opções 1", Fox Crime
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131046
+#EXTINF:-1, group-title="Opções 1", Fox Life
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131052
+#EXTINF:-1, group-title="Opções 1", Fox Movies
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131041
+#EXTINF:-1, group-title="Opções 1", Fuel TV
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130976
+#EXTINF:-1, group-title="Opções 1",  Discovery Investigation
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131077
+#EXTINF:-1, group-title="Opções 1", 24 Kitchen
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130946
+#EXTINF:-1, group-title="Opções 1", Combat
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130974
+#EXTINF:-1, group-title="Opções 1", Mezzo
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131075
+#EXTINF:-1, group-title="Opções 1", Motorvision
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130975
+#EXTINF:-1, group-title="Opções 1", National Geographic
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131078
+#EXTINF:-1, group-title="Opções 1", Nat Geo Wild
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131079
+#EXTINF:-1, group-title="Opções 1", Nickelodeon
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131060
+#EXTINF:-1, group-title="Opções 1", RTP 1
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130916
+#EXTINF:-1, group-title="Opções 1", RTP 2
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130917
+#EXTINF:-1, group-title="Opções 1", RTP 3
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130918
+#EXTINF:-1, group-title="Opções 1", RTP Açores
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131100
+#EXTINF:-1, group-title="Opções 1", RTP Memoria
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131101
+#EXTINF:-1, group-title="Opções 1", SIC
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130919
+#EXTINF:-1, group-title="Opções 1", SIC Caras
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130936
+#EXTINF:-1, group-title="Opções 1", SIC Mulher
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130935
+#EXTINF:-1, group-title="Opções 1", SIC Noticias
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130922
+#EXTINF:-1, group-title="Opções 1", SIC Radical
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130934
+#EXTINF:-1, group-title="Opções 1", Sport TV NBA
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130957
+#EXTINF:-1, group-title="Opções 1", SyFy
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131053
+#EXTINF:-1, group-title="Opções 1", TPA International
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131114
+#EXTINF:-1, group-title="Opções 1", TVCine Action
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131040
+#EXTINF:-1, group-title="Opções 1", TVCine Edition
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131038
+#EXTINF:-1, group-title="Opções 1", TVCine Emotion
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131039
+#EXTINF:-1, group-title="Opções 1", TVCine Top
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131037
+#EXTINF:-1, group-title="Opções 1", TVI HD
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130920
+#EXTINF:-1, group-title="Opções 1", TVI 24
+http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130923
+#EXTINF:-1, group-title="Opções 2", National Geographic Wild
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66276
+#EXTINF:-1, group-title="Opções 2", 24 Kitchen HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66277
+#EXTINF:-1, group-title="Opções 2", A Bola TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66278
+#EXTINF:-1, group-title="Opções 2", ARTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66279
+#EXTINF:-1, group-title="Opções 2", AXN HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66280
+#EXTINF:-1, group-title="Opções 2", AXN Movies HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66281
+#EXTINF:-1, group-title="Opções 2", AXN White HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66282
+#EXTINF:-1, group-title="Opções 2", BTV 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66287
+#EXTINF:-1, group-title="Opções 2", BTV HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66288
+#EXTINF:-1, group-title="Opções 2", Baby TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66289
+#EXTINF:-1, group-title="Opções 2", Bloomberg
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66290
+#EXTINF:-1, group-title="Opções 2", CBS Reality
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66291
+#EXTINF:-1, group-title="Opções 2", CMTV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66292
+#EXTINF:-1, group-title="Opções 2", CNBC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66293
+#EXTINF:-1, group-title="Opções 2", CNBC Europe
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66294
+#EXTINF:-1, group-title="Opções 2", Canal NOS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66296
+#EXTINF:-1, group-title="Opções 2", Canal Panda
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66297
+#EXTINF:-1, group-title="Opções 2", Canal Q
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66298
+#EXTINF:-1, group-title="Opções 2", CanĿªo Nova
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66299
+#EXTINF:-1, group-title="Opções 2", Cartoon Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66300
+#EXTINF:-1, group-title="Opções 2", Casa e Cozinha HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66301
+#EXTINF:-1, group-title="Opções 2", Crime+Investigation
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66303
+#EXTINF:-1, group-title="Opções 2", E! Entertainment
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66304
+#EXTINF:-1, group-title="Opções 2", Eleven Sports 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66311
+#EXTINF:-1, group-title="Opções 2", Eleven Sports 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66312
+#EXTINF:-1, group-title="Opções 2", Eleven Sports 3
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66313
+#EXTINF:-1, group-title="Opções 2", Eleven Sports 4
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66314
+#EXTINF:-1, group-title="Opções 2", Eleven Sports 5
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66315
+#EXTINF:-1, group-title="Opções 2", Eleven Sports 6
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66316
+#EXTINF:-1, group-title="Opções 2", Eurosport 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66318
+#EXTINF:-1, group-title="Opções 2", Eurosport 2
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66319
+#EXTINF:-1, group-title="Opções 2", FOX Crime HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66320
+#EXTINF:-1, group-title="Opções 2", FOX HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66321
+#EXTINF:-1, group-title="Opções 2", FOX Life HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66322
+#EXTINF:-1, group-title="Opções 2", Fox Comedy
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66324
+#EXTINF:-1, group-title="Opções 2", Globo
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66326
+#EXTINF:-1, group-title="Opções 2", Histðria
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66327
+#EXTINF:-1, group-title="Opções 2", Hollywood HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66329
+#EXTINF:-1, group-title="Opções 2", ID Investigation Discovery
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66330
+#EXTINF:-1, group-title="Opções 2", Jim Jam
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66331
+#EXTINF:-1, group-title="Opções 2", MCM Pop
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66332
+#EXTINF:-1, group-title="Opções 2", MTV Portugal
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66335
+#EXTINF:-1, group-title="Opções 2", National Geographic HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66337
+#EXTINF:-1, group-title="Opções 2", Odisseia
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66338
+#EXTINF:-1, group-title="Opções 2", PFC
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66339
+#EXTINF:-1, group-title="Opções 2", Playboy TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66340
+#EXTINF:-1, group-title="Opções 2", Porto Canal
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66341
+#EXTINF:-1, group-title="Opções 2", RTP Africa
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66342
+#EXTINF:-1, group-title="Opções 2", RTP 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66343
+#EXTINF:-1, group-title="Opções 2", RTP 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66344
+#EXTINF:-1, group-title="Opções 2", RTP Acores
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66346
+#EXTINF:-1, group-title="Opções 2", RTP Madeira
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66347
+#EXTINF:-1, group-title="Opções 2", RTP Memðria
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66348
+#EXTINF:-1, group-title="Opções 2", SIC Caras
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66353
+#EXTINF:-1, group-title="Opções 2", SIC HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66354
+#EXTINF:-1, group-title="Opções 2", SIC K
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66356
+#EXTINF:-1, group-title="Opções 2", SIC Noticias
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66357
+#EXTINF:-1, group-title="Opções 2", SIC Radical
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66358
+#EXTINF:-1, group-title="Opções 2", SPORT TV 4
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66363
+#EXTINF:-1, group-title="Opções 2", Sport TV 1 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66365
+#EXTINF:-1, group-title="Opções 2", Sport TV 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66367
+#EXTINF:-1, group-title="Opções 2", Sport TV 3 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66369
+#EXTINF:-1, group-title="Opções 2", Sport TV NBA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66370
+#EXTINF:-1, group-title="Opções 2", TV Record
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66374
+#EXTINF:-1, group-title="Opções 2", TVCine EDITION HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66375
+#EXTINF:-1, group-title="Opções 2", TVCine EMOTION HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66376
+#EXTINF:-1, group-title="Opções 2", TVI 24
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66378
+#EXTINF:-1, group-title="Opções 2", TVI Ficcao
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66379
+#EXTINF:-1, group-title="Opções 2", TVI HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66380
+#EXTINF:-1, group-title="Opções 2", TVI24
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66381
+#EXTINF:-1, group-title="Opções 2", Trace Urban
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66382
+#EXTINF:-1, group-title="Opções 2", Travel Channel HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66383
+#EXTINF:-1, group-title="Opções 3", group-title="Opções 3",24 Kitchen HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66277?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  24 Kitchen HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10126?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", group-title="Opções 3",A Bola TV
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66278?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",BTV 1
+#EXTINF:-1, group-title="Opções 3", ARTV
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10129?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", AXN HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10130?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", AXN MOVIES
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146857?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", AXN Movies HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10131?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", AXN Movies HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66281?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", AXN PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", AXN White HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10132?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  BBC Entertainment
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10134?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", BTV 1
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146794?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",BTV 1 HD
+#EXTINF:-1, group-title="Opções 3", BTV 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66287?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Benfica TV PT
+#EXTINF:-1, group-title="Opções 3",  Baby TV
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10136?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Baby TV
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66289?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Benfica TV PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/benfica.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Bola TV
+#EXTINF:-1, group-title="Opções 3",  Bloomberg
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10137?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Bola TV
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bola.tv.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Noticias",CMTV
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10139?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Noticias",CMTV
+#EXTINF:-1, group-title="Opções 3", CBS Reality
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66291?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", CMTV
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66292?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Noticias",CMTV PT
+#EXTINF:-1, group-title="Opções 3",  CMTV
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10139?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", CMTV PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cmtv.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Canal 11
+#EXTINF:-1, group-title="Opções 3", Can?ªo Nova
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10144?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Canal 11
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.11.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Desporto",Eleven 1 HD
+#EXTINF:-1, group-title="Opções 3", Canal Hollywood
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.hollywood.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Canal NOS
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66296?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Canal Panda
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.panda.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Canal Panda
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66297?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Canal Q
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66298?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Cartoon Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66300?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Casa e Cozinha HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66301?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Casa e Cozinha HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10146?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  Cinemundo
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10150?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  Discovery Channel
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10151?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  E! Entertainment
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10154?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  Eleven 1 HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10155?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Desporto",Eleven 2 HD
+#EXTINF:-1, group-title="Opções 3",  Eleven 2 HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10156?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Desporto",Eleven 3
+#EXTINF:-1, group-title="Opções 3",  Eleven 3
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10157?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Desporto",Eleven 6
+#EXTINF:-1, group-title="Opções 3",  Eleven 6
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10158?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 1 HD
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66311?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 1 PT
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 1 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.1.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 2 HD
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 2 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66312?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 2 PT
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 2 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.2.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 3
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 3
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66313?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 3 PT
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 3 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.3.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Desporto",Eleven Sports 4
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10159?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 4
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 4
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66314?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 4 PT
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 4
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10159?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 4 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.4.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 5
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 5
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66315?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Desporto",Eleven Sports 5
+#EXTINF:-1, group-title="Opções 3",  Eleven Sports 5
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10160?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 5 PT
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 5 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.5.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 6
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 6
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66316?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eleven Sports 6 PT
+#EXTINF:-1, group-title="Opções 3", Eleven Sports 6 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.6.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Desporto",Eurosport 2
+#EXTINF:-1, group-title="Opções 3",  Eurosport 2
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10163?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Eurosport 2
+#EXTINF:-1, group-title="Opções 3", Eurosport 2
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66319?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",HD ELEVEN SPORTS 1
+#EXTINF:-1, group-title="Opções 3", FOX
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146831?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX CRIME
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146834?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX Comedy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.comedy.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX Crime HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66320?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX Crime HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10164?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX Crime PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.crime.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66321?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10165?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX Life HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10166?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX Life HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66322?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX Life PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX Movies
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.movies.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", FOX PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Ficcao
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ficcao.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Fox Comedy
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10168?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Fox Comedy
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66324?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Globo
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66326?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD AFRO MUSIC
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146882?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD CBS REALITY
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146903?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD DISCOVERY CHANNEL
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146889?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD E! ENTERTAINMENT
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146887?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD ELEVEN SPORTS 1
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146781?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",HD ELEVEN SPORTS 3
+#EXTINF:-1, group-title="Opções 3", HD ELEVEN SPORTS 3
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146785?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",HD ELEVEN SPORTS 4
+#EXTINF:-1, group-title="Opções 3", HD ELEVEN SPORTS 4
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146787?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",HD RTP 2
+#EXTINF:-1, group-title="Opções 3", HD FOX
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146830?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD FOX COMEDY
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146832?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD FOX CRIME
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146833?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD FOX LIFE
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146835?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD FOX MOVIES
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146837?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD RTP 2
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146741?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",HD RTP AFRICA
+#EXTINF:-1, group-title="Opções 3", HD RTP AFRICA
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146755?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",HD RTP INTERNATIONAL
+#EXTINF:-1, group-title="Opções 3", HD RTP INTERNATIONAL
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146748?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",HD SIC
+#EXTINF:-1, group-title="Opções 3", HD SIC
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146947?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",HD SIC NOTICIAS
+#EXTINF:-1, group-title="Opções 3", HD SIC NOTICIAS
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146751?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",HD SPORT TV 1
+#EXTINF:-1, group-title="Opções 3", HD SPORT TV 1
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146770?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",HD SPORT TV 1
+#EXTINF:-1, group-title="Opções 3", HD SPORT TV 1
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146771?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",HD SPORT TV 2
+#EXTINF:-1, group-title="Opções 3", HD SPORT TV 2
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146774?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",HD SPORT TV 3
+#EXTINF:-1, group-title="Opções 3", HD SPORT TV 3
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146777?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",HD SPORT TV 3
+#EXTINF:-1, group-title="Opções 3", HD SPORT TV 3
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146776?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",HD SPORT TV 4
+#EXTINF:-1, group-title="Opções 3", HD SPORT TV 4
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146779?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Filmes",HD TVCINE EMOTION
+#EXTINF:-1, group-title="Opções 3", HD TRACE TOCA
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146883?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD TV RECORD
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146821?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD TV RECORD NEWS
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146950?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", HD TVCINE EMOTION
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146844?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",HD TVI
+#EXTINF:-1, group-title="Opções 3", HD TVI
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146948?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",PFC
+#EXTINF:-1, group-title="Opções 3",  Histðria
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10176?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Histðria
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66327?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", ID Investigation Discovery
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66330?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Jim Jam
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66331?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Lolly Kids
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10180?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", MCM Pop
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66332?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", MTV Portugal
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66335?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", National Geographic HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66337?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  National Geographic HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10186?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", National Geographic PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.geographic.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  National Geographic WILD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10187?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", National Geographic Wild
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66276?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Nick JR
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  Nick Jr.
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10188?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Nickelodeon
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  Nickelodeon
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10189?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Odisseia
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66338?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3",  Odisseia
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10190?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PFC
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66339?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",A BOLA TV
+#EXTINF:-1, group-title="Opções 3", PT A BOLA TV
 http://176.57.50.167:25461/536416/231244/7587?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",BENFICA TV 1 HD
+#EXTINF:-1, group-title="Opções 3", PT AMC HD
+http://176.57.50.167:25461/536416/231244/7590?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT AXN WHITE HD
+http://176.57.50.167:25461/536416/231244/7597?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT BENFICA TV 1 HD
 http://176.57.50.167:25461/536416/231244/7600?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Noticias",CMTV HD
+#EXTINF:-1, group-title="Opções 3", PT CINEMUNDO HD
+http://176.57.50.167:25461/536416/231244/7616?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT CMTV HD
 http://176.57.50.167:25461/536416/231244/7618?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 1
+#EXTINF:-1, group-title="Opções 3", PT DISCOVERY CHANNEL HD
+http://176.57.50.167:25461/536416/231244/7622?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT DISNEY CHANNEL
+http://176.57.50.167:25461/536416/231244/7623?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT ELEVEN SPORTS 1
 http://176.57.50.167:25461/536416/231244/7626?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 1 HD
+#EXTINF:-1, group-title="Opções 3", PT ELEVEN SPORTS 1 HD
 http://176.57.50.167:25461/536416/231244/7627?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 2
+#EXTINF:-1, group-title="Opções 3", PT ELEVEN SPORTS 2
 http://176.57.50.167:25461/536416/231244/7628?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 2 HD
+#EXTINF:-1, group-title="Opções 3", PT ELEVEN SPORTS 2 HD
 http://176.57.50.167:25461/536416/231244/7629?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 3
+#EXTINF:-1, group-title="Opções 3", PT ELEVEN SPORTS 3
 http://176.57.50.167:25461/536416/231244/7630?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 3 HD
+#EXTINF:-1, group-title="Opções 3", PT ELEVEN SPORTS 3 HD
 http://176.57.50.167:25461/536416/231244/7631?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 4 HD
+#EXTINF:-1, group-title="Opções 3", PT ELEVEN SPORTS 4 HD
 http://176.57.50.167:25461/536416/231244/7633?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",ELEVEN SPORTS 6
+#EXTINF:-1, group-title="Opções 3", PT ELEVEN SPORTS 6
 http://176.57.50.167:25461/536416/231244/7636?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",SIC HD
+#EXTINF:-1, group-title="Opções 3", PT FOX LIFE HD
+http://176.57.50.167:25461/536416/231244/7652?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT FUEL TV HD
+http://176.57.50.167:25461/536416/231244/7655?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT HISTORIA
+http://176.57.50.167:25461/536416/231244/7658?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT HOLLYWOOD
+http://176.57.50.167:25461/536416/231244/7659?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT NATIONAL GEOGRAPHIC HD
+http://176.57.50.167:25461/536416/231244/7674?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT SIC HD
 http://176.57.50.167:25461/536416/231244/7696?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",SIC NOTICIAS
+#EXTINF:-1, group-title="Opções 3", PT SIC NOTICIAS
 http://176.57.50.167:25461/536416/231244/7699?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 1
+#EXTINF:-1, group-title="Opções 3", PT SPORT TV 1
 http://176.57.50.167:25461/536416/231244/7704?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 1 HD
+#EXTINF:-1, group-title="Opções 3", PT SPORT TV 1 HD
 http://176.57.50.167:25461/536416/231244/7705?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 2
+#EXTINF:-1, group-title="Opções 3", PT SPORT TV 2
 http://176.57.50.167:25461/536416/231244/7706?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 2 HD
+#EXTINF:-1, group-title="Opções 3", PT SPORT TV 2 HD
 http://176.57.50.167:25461/536416/231244/7707?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 3
+#EXTINF:-1, group-title="Opções 3", PT SPORT TV 3
 http://176.57.50.167:25461/536416/231244/7708?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 3 HD
+#EXTINF:-1, group-title="Opções 3", PT SPORT TV 3 HD
 http://176.57.50.167:25461/536416/231244/7709?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 4
+#EXTINF:-1, group-title="Opções 3", PT SPORT TV 4
 http://176.57.50.167:25461/536416/231244/7710?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 4 HD
+#EXTINF:-1, group-title="Opções 3", PT SPORT TV 4 HD
 http://176.57.50.167:25461/536416/231244/7711?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 5
-http://176.57.50.167:25461/536416/231244/7713?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Filmes",TVCINE 2
+#EXTINF:-1, group-title="Opções 3", PT SYFY HD
+http://176.57.50.167:25461/536416/231244/7717?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT TRAVEL CHANNEL HD
+http://176.57.50.167:25461/536416/231244/7723?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT TV RECORD HD
+http://176.57.50.167:25461/536416/231244/7726?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", PT TVCINE 2
 http://176.57.50.167:25461/536416/231244/7731?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",TVI
+#EXTINF:-1, group-title="Opções 3", PT TVI
 http://176.57.50.167:25461/536416/231244/7737?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",TVI HD
+#EXTINF:-1, group-title="Opções 3", PT TVI HD
 http://176.57.50.167:25461/536416/231244/7745?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Porto Canal
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/porto.canal.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Porto Canal
+#EXTINF:-1, group-title="Opções 3", Porto Canal
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66341?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP 1
+#EXTINF:-1, group-title="Opções 3", Porto Canal
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/porto.canal.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", RTP 1
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146740?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",RTP 1 HD
+#EXTINF:-1, group-title="Opções 3",  RTP 1 HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10195?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP 1 HD
+#EXTINF:-1, group-title="Opções 3", RTP 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66343?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP 1 PT
+#EXTINF:-1, group-title="Opções 3", RTP 1 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.1.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP 2 HD
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66344?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",RTP 2 HD
+#EXTINF:-1, group-title="Opções 3", RTP 2 HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10196?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP 2 PT
+#EXTINF:-1, group-title="Opções 3", RTP 2 HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66344?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", RTP 2 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.2.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",RTP 3
+#EXTINF:-1, group-title="Opções 3", RTP 3
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10197?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP 3 PT
+#EXTINF:-1, group-title="Opções 3", RTP 3 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.3.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",RTP A?ores
+#EXTINF:-1, group-title="Opções 3", RTP A?ores
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10198?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP Acores
+#EXTINF:-1, group-title="Opções 3", RTP Acores
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.acores.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP Acores
+#EXTINF:-1, group-title="Opções 3", RTP Acores
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66346?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP Africa
+#EXTINF:-1, group-title="Opções 3", RTP Africa
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66342?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP International
+#EXTINF:-1, group-title="Opções 3", RTP International
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.inter.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP Madeira
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66347?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",RTP Madeira
+#EXTINF:-1, group-title="Opções 3", RTP Madeira
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10199?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",RTP Memðria
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66348?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",RTP Memðria
+#EXTINF:-1, group-title="Opções 3", RTP Madeira
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66347?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", RTP Memðria
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10200?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",RTP1
+#EXTINF:-1, group-title="Opções 3", RTP Memðria
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66348?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", RTP1
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10173?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="General",RTP1 (480p)
+#EXTINF:-1, group-title="Opções 3", RTP1 (480p)
 http://162.212.178.69:41042/bysid/608?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",RTP2
+#EXTINF:-1, group-title="Opções 3", RTP2
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10174?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",SIC
+#EXTINF:-1, group-title="Opções 3", SIC
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146746?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Generalistas",SIC (1080p)
+#EXTINF:-1, group-title="Opções 3", SIC (1080p)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",SIC Caras
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.caras.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",SIC Caras
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66353?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",SIC Caras
+#EXTINF:-1, group-title="Opções 3", SIC Caras
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10201?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",SIC HD
+#EXTINF:-1, group-title="Opções 3", SIC Caras
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66353?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", SIC Caras
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.caras.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", SIC HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66354?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",SIC HD
+#EXTINF:-1, group-title="Opções 3", SIC HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10202?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",SIC PT
+#EXTINF:-1, group-title="Opções 3", SIC K
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.k.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", SIC K
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66356?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", SIC PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV +
+#EXTINF:-1, group-title="Opções 3", SIC Radical
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66358?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", SPORT TV +
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146769?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 1
+#EXTINF:-1, group-title="Opções 3", SPORT TV 1
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146773?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 1 HD NOS
+#EXTINF:-1, group-title="Opções 3", SPORT TV 1 HD NOS
 http://xtra.fireottplus.com:2052/017458648389/407609858756/146772?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",SPORT TV 4
+#EXTINF:-1, group-title="Opções 3", SPORT TV 4
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66363?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV 1 HD
+#EXTINF:-1, group-title="Opções 3", SYFY
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Sport TV 1 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66365?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV 1 PT
+#EXTINF:-1, group-title="Opções 3", Sport TV 1 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv1.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV 2 HD
+#EXTINF:-1, group-title="Opções 3", Sport TV 2 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66367?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV 2 PT
+#EXTINF:-1, group-title="Opções 3", Sport TV 2 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv2.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV 3 HD
+#EXTINF:-1, group-title="Opções 3", Sport TV 3 HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66369?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV 3 PT
+#EXTINF:-1, group-title="Opções 3", Sport TV 3 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv3.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Desporto",Sport TV 4
+#EXTINF:-1, group-title="Opções 3", Sport TV 4
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10210?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV 4 PT
+#EXTINF:-1, group-title="Opções 3", Sport TV 4 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv4.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV 5 PT
+#EXTINF:-1, group-title="Opções 3", Sport TV 5 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv5.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV 6
+#EXTINF:-1, group-title="Opções 3", Sport TV 6
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv6.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV NBA
+#EXTINF:-1, group-title="Opções 3", Sport TV NBA
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66370?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Desporto",Sport TV Plus PT
+#EXTINF:-1, group-title="Opções 3", Sport TV Plus PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Filmes",TVCine 1 PT
+#EXTINF:-1, group-title="Opções 3", TLC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", TV Record
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66374?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", TV Record
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10213?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", TVCine 1 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.1.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Filmes",TVCine 2 PT
+#EXTINF:-1, group-title="Opções 3", TVCine 2 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.2.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Filmes",TVCine EDITION HD
+#EXTINF:-1, group-title="Opções 3", TVCine EDITION HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10215?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Filmes",TVCine EMOTION HD
+#EXTINF:-1, group-title="Opções 3", TVCine EMOTION HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10216?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",TVI
+#EXTINF:-1, group-title="Opções 3", TVI
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10172?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",TVI 24
+#EXTINF:-1, group-title="Opções 3", TVI 24
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66378?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",TVI 24 PT
+#EXTINF:-1, group-title="Opções 3", TVI 24 PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvi.24.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",TVI Ficcao
+#EXTINF:-1, group-title="Opções 3", TVI Ficcao
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66379?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Generalistas",TVI HD
+#EXTINF:-1, group-title="Opções 3", TVI HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10219?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",TVI HD
+#EXTINF:-1, group-title="Opções 3", TVI HD
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66380?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",TVI PT
+#EXTINF:-1, group-title="Opções 3", TVI PT
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvi.pt.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Generalistas",TVI24
+#EXTINF:-1, group-title="Opções 3", TVI24
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66381?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Trace Toca
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10221?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Trace Urban
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66382?checkedby:iptvcat.com
+#EXTINF:-1, group-title="Opções 3", Travel Channel HD
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66383?checkedby:iptvcat.com
