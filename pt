@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1, Afro Music
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131068
 #EXTINF:-1, AMC
@@ -97,3 +96,27 @@ http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/131037
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130920
 #EXTINF:-1, TVI 24
 http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/130923
+#EXTINF:-1,Eurosport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/66.ts
+#EXTINF:-1,Eurosport 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67.ts
+#EXTINF:-1,Sport TV 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69683.ts
+#EXTINF:-1,Sport TV 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69684.ts
+#EXTINF:-1,Sport TV 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69685.ts
+#EXTINF:-1,Sport TV 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69686.ts
+#EXTINF:-1,Sport TV 5
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69687.ts
+#EXTINF:-1,Eleven Sports 1 PT
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69688.ts
+#EXTINF:-1,Eleven Sports 2 PT
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69689.ts
+#EXTINF:-1,Eleven Sports 3 PT
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69690.ts
+#EXTINF:-1,Super Tennis HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/2754.ts
+#EXTINF:-1,NBA TV HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/24722.ts
