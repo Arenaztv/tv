@@ -887,7 +887,8 @@ c/146955
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Norte" tvg-logo="https://d2ktu0kz5kxh3s.cloudfront.net/media/3783130/facebook-logo.png"
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="USA:-----|GENERAL|--------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|GENERAL|--------------------------------.png" group-title="USA General",USA:-----|GENERAL|--------------------------------
 #EXTINF:-1 tvg-logo="https://d2ktu0kz5kxh3s.cloudfront.net/media/3783130/facebook-logo.png" group-title="Praias de Portugal",Vila Praia de Âncora
 https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2ktu0kz5kxh3s.cloudfront.net/media/3783130/facebook-logo.png" group-title="Praias de Portugal",Esposende
@@ -908,7 +909,7 @@ https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2ktu0kz5kxh3s.cloudfront.net/media/3783130/facebook-logo.png" group-title="Praias de Portugal",Esmoriz
 https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Centro" tvg-logo="https://d2ktu0kz5kxh3s.cloudfront.net/media/3783130/facebook-logo.png"
+#EXTINF:-1 tvg-id="" tvg-name="USA:-----|GENERAL|--------------------------------" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/USA-----|GENERAL|--------------------------------.png" group-title="USA General",USA:-----|GENERAL|--------------------------------
 #EXTINF:-1 tvg-logo="https://d2ktu0kz5kxh3s.cloudfront.net/media/3783130/facebook-logo.png" group-title="Praias de Portugal",Furadouro
 https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d2ktu0kz5kxh3s.cloudfront.net/media/3783130/facebook-logo.png" group-title="Praias de Portugal",Praia da Torreira
